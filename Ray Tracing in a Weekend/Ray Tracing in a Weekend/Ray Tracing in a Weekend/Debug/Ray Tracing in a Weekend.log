@@ -1,0 +1,39 @@
+﻿  Main.cpp
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\vec3.h(85,10): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\vec3.h(164,10): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\HitableList.h(33,30): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Material.h(16,84): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Material.h(16,55): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Material.h(16,26): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Material.h(33,21): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Material.h(131,22): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Camera.h(11,55): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Camera.h(11,26): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Camera.h(19,36): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Main.cpp(18,5): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Main.cpp(34,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Main.cpp(35,15): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Main.cpp(35,66): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Main.cpp(50,21): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Main.cpp(51,62): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Main.cpp(51,98): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Main.cpp(51,18): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Main.cpp(60,213): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Main.cpp(60,152): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Main.cpp(60,91): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Main.cpp(60,246): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Main.cpp(67,143): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Main.cpp(67,102): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Main.cpp(67,61): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Main.cpp(67,185): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Main.cpp(67,216): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Main.cpp(71,62): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Main.cpp(79,79): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Main.cpp(80,73): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Main.cpp(88,35): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Main.cpp(95,77): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Main.cpp(96,82): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Main.cpp(97,72): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Main.cpp(99,67): warning C4305:  'argument': truncation from 'double' to 'float'
+C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Main.cpp(106,22): warning C4305:  'initializing': truncation from 'double' to 'float'
+  Ray Tracing in a Weekend.vcxproj -> C:\Graphics\Ray Tracing in a Weekend\Ray Tracing in a Weekend\Debug\Ray Tracing in a Weekend.exe
